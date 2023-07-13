@@ -7,7 +7,7 @@ This is a group dedicated to researching and implementing deep code introspectio
   - Space leak detection
   - Step-by-step debugging for GHC's STG IR.
   - The external STG interpreter / debugger tooling
-  - VSCode + data visualization
+  - Data visualization + GUI design
   - Profiling
 
 **Goals**:
